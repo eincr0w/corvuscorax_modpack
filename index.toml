@@ -239,10 +239,6 @@ file = "packwiz.json"
 hash = "3e076730ece7557d7fb8303b6e021d527cc79b02e71b415fe2d8e32c9e38bcb1"
 
 [[files]]
-file = "resourcepacks/Connected World v1.4 for 1.20.3.zip"
-hash = "6f7341e2b2d3f6523a347921127987a203b93205d6a1b3b4da298c07911b5208"
-
-[[files]]
 file = "resourcepacks/FreshAnimations_v1.9.3.zip"
 hash = "aa3812ae5fb96a22590ff2ccb53f589a9de9081c11e1432c871cc11fa87c9252"
 
@@ -282,11 +278,6 @@ file = "shaderpacks/MakeUp-UltraFast-9.1c.zip"
 hash = "b08000a015077d3b07e8da94f4a9e005e7f2a11d78230be8d44117cbb2ca7885"
 
 [[files]]
-file = "shaderpacks/astralex.pw.toml"
-hash = "409ff133cb439739037d81226b596dae64bc413f5ba2148fb602b0d80b89479c"
-metafile = true
-
-[[files]]
 file = "shaderpacks/bsl-shaders-classic.pw.toml"
 hash = "8d794dbd95ad6a23c5688f7e6ad8e1a853f38de3a536361e1ba3a6da591874e0"
 metafile = true
@@ -318,7 +309,3 @@ metafile = true
 [[files]]
 file = "shaderpacks/rethinking-voxels_r0.1-beta6a.zip"
 hash = "a7998b1c0b806be215e86c1579d266d327dcd8674caa36608476d24bb85f0fc1"
-
-[[files]]
-file = "shaderpacks/§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip"
-hash = "70b6d8127a6733f0a19bd1d351b92709d6ee7496967ff49c4793d2c28c7a6c58"
