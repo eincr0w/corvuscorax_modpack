@@ -155,6 +155,11 @@ hash = "59bb4f6a91e46057b59a74b38338caec5a0c16d7d13f3eb0b54c9e2508deb00d"
 metafile = true
 
 [[files]]
+file = "shaderpacks/astralex.pw.toml"
+hash = "409ff133cb439739037d81226b596dae64bc413f5ba2148fb602b0d80b89479c"
+metafile = true
+
+[[files]]
 file = "shaderpacks/bsl-shaders-classic.pw.toml"
 hash = "8d794dbd95ad6a23c5688f7e6ad8e1a853f38de3a536361e1ba3a6da591874e0"
 metafile = true
