@@ -231,8 +231,12 @@ file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
 file = "packwiz.json"
-hash = "c43ea192aa209b20f4681100e9a521c14bb86e5d77e55fb1d304bce84b568395"
+hash = "3e076730ece7557d7fb8303b6e021d527cc79b02e71b415fe2d8e32c9e38bcb1"
 
 [[files]]
 file = "resourcepacks/Connected World v1.4 for 1.20.3.zip"
