@@ -190,6 +190,11 @@ hash = "5e6502a270e023d869aad48292a82d2599103c56bbca5157ad9479fa9d094fd6"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+hash = "bedeab81b949543d6e5ba34a496f63543cdcbc33982a44794fc14de48eec5b8b"
+metafile = true
+
+[[files]]
 file = "mods/sodium-fabric-0.6.6+mc1.21.4.jar"
 hash = "2edd03c3563094543d3f3d6b94107e0f5845b682f841728ee7f8cd5d5c0f8e83"
 
@@ -252,13 +257,28 @@ hash = "ee95b23649d1bf1d66588c5731df1f0273c7a1394e719b0041163794c4cfc5bc"
 metafile = true
 
 [[files]]
+file = "resourcepacks/default-hd-256x.pw.toml"
+hash = "cb229c15c3625e6390df3973d639cb271899eeb04fed284bc51bb42813500ae0"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "8a9f38930714c828285ac7c422302380d939d80384a90ed1148d6d26e8863870"
 metafile = true
 
 [[files]]
+file = "resourcepacks/optimum-realism.pw.toml"
+hash = "f53ab12a4c7b4989f68937cf2b2852aebcd191eaa8c6514a182c5f3019553fce"
+metafile = true
+
+[[files]]
 file = "resourcepacks/remodeled-doors.pw.toml"
 hash = "59bb4f6a91e46057b59a74b38338caec5a0c16d7d13f3eb0b54c9e2508deb00d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stylista.pw.toml"
+hash = "5d142877087e832f4cdc3e51b66e034dc35599e5bcd44135cc6ab50f60321217"
 metafile = true
 
 [[files]]

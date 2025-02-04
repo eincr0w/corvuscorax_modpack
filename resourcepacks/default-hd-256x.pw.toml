@@ -1,0 +1,13 @@
+name = "Default HD 256x"
+filename = "Default HD 256x Demo 1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fTIIU7Tj/versions/zW9uiX70/Default%20HD%20256x%20Demo%201.2.zip"
+hash-format = "sha512"
+hash = "ceb49760070cea3b8380cdedbadde77dd7e31c4cf8056345a5007a1f047baaa3a6eb8007a989972d4903b55e94486c37f81a0ce6189c88e895e68bc08980e3f9"
+
+[update]
+[update.modrinth]
+mod-id = "fTIIU7Tj"
+version = "zW9uiX70"

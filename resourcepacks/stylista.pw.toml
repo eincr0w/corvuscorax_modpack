@@ -1,0 +1,13 @@
+name = "Stylista [LabPBR]"
+filename = "Stylista 128x R25.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y7dBqGlW/versions/YO8Sm9kO/Stylista%20128x%20R25.zip"
+hash-format = "sha512"
+hash = "538f56c3a892c4ec511c99c97820d5b7b261a1a2d133c4bb5b91cd5ac00e4029e8bf85b58c6959a512741a4649539c2d3655ece66c5d7c0f4d694f274bf71090"
+
+[update]
+[update.modrinth]
+mod-id = "Y7dBqGlW"
+version = "YO8Sm9kO"
