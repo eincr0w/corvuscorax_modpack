@@ -110,6 +110,10 @@ hash = "5e6502a270e023d869aad48292a82d2599103c56bbca5157ad9479fa9d094fd6"
 metafile = true
 
 [[files]]
+file = "mods/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "e0e1e55bfd57838d03dbcd49d3e056352db0284b15e45210205c5d85f83b76d4"
 metafile = true
