@@ -1,0 +1,13 @@
+name = "Optimum Realism"
+filename = "Optimum Realism R2.9.0 64x [Kappa, BSL,etc] WIP.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jbhXFk8s/versions/yobao09i/Optimum%20Realism%20R2.9.0%2064x%20%5BKappa%2C%20BSL%2Cetc%5D%20WIP.zip"
+hash-format = "sha512"
+hash = "bcc98a708b1a814bc93fbcc151dd559b4a135630a6d6440db16708ac40615c61ccff4b5f090a9460cddfb4b04ce0539ba3399e9b3f3aba8a067d27939329c5b6"
+
+[update]
+[update.modrinth]
+mod-id = "jbhXFk8s"
+version = "yobao09i"
