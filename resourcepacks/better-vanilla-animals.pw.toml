@@ -1,0 +1,13 @@
+name = "BVA - Better Vanilla Animals"
+filename = "§2BetterVanillaAnimals§7_v4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y2mpWeFu/versions/UFktpFeg/%C2%A72BetterVanillaAnimals%C2%A77_v4.zip"
+hash-format = "sha512"
+hash = "ea46b1d300cd4cef80294a5ff1bc7cf795ef755b8fd3ba0b584fc54ff626af6cc0e8e66cd202851baddc6b5f028d8bd6068c37f4b943d1703a1dfe4de517b596"
+
+[update]
+[update.modrinth]
+mod-id = "Y2mpWeFu"
+version = "UFktpFeg"

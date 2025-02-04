@@ -1,0 +1,13 @@
+name = "Craftable Saddles"
+filename = "craft-saddle-61.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c302us4z/versions/5o2M6zwq/craft-saddle-61.1.jar"
+hash-format = "sha512"
+hash = "448f88d5ef6f5390585e6a468fc31a05e4c49eb92c5fc8f5da066f45e4783a286fcda1b8197eda02a4eee85c2df0aa2767728a89de333c8409b4e3249d9310fb"
+
+[update]
+[update.modrinth]
+mod-id = "c302us4z"
+version = "5o2M6zwq"

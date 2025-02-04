@@ -1,0 +1,176 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "126a1b72c154478d7d18d733fcc5e79bae93df7e37ee3f0b6e00db1b1ea66ac5"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "66d945c13d1ab4e07017eb0194799874893742ab5e7622b7ef56fb843d19d1bd"
+metafile = true
+
+[[files]]
+file = "mods/cobweb.pw.toml"
+hash = "3742a1ea5e95612546d714dc73e9af2789efffff93772440a062c209f77f7499"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "49349d6789c8d49c469d98f0796b260df8f9534625fddd60c37a0bd197dce225"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "7986f751d84536043edd1e67178554f6d4c3f01409feae6c151afa7854db5fa2"
+metafile = true
+
+[[files]]
+file = "mods/craft-saddle.pw.toml"
+hash = "9439fe645256245c55683c1098ec3d1b0ddc99106d8331a068fa8a7b0fb67e89"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "cde649248ca5d9b791fcf10bb45cc1cfbed6b626963839377dcf8ea6c14fd01d"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "187026fe5d603008a4b30559103487f0ebf08682bf3e470ab743227f5265a422"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "dd4c3c3ee97fa946926784db25da0b5a9984c9959681f412d6b402cc5bdfc83e"
+metafile = true
+
+[[files]]
+file = "mods/followers-teleport-too.pw.toml"
+hash = "c2e3a784ac7202941c4f3adfa500133f91f844417e56683ba7dd1a0b150b6a77"
+metafile = true
+
+[[files]]
+file = "mods/immersive-ui.pw.toml"
+hash = "c2230f55e4fd0985b000e35e2fb8e1c687877ac19cb68bc59c9e7f46490f350f"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "82e7a1244febc6b4699e17bcee523567efc9c8c005d67057f9c4c40e7fba2a5a"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "114968e70a3e2c2f7a33db6ed305256585353361a28210a0b872df52fc5542aa"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-web-map.pw.toml"
+hash = "a82bae37129126fb66836fa72a4845f182c4a4af42ca557bbb31da4bb1e5e209"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "b60dc2a03d3536e84af18d8215b52ce4a0fa85ee56ae330e54b130614bc3226f"
+metafile = true
+
+[[files]]
+file = "mods/jrftl.pw.toml"
+hash = "2ed115b7091ec2d6677923d43e201f9d5b37b00f305f21039851291af2b52663"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "9752dfb3a2284f00d64d338df2d740e5c55bfcd4eb1aa7819fd9915a007468ef"
+metafile = true
+
+[[files]]
+file = "mods/leathered-boots.pw.toml"
+hash = "30215f62c0e7e6080c0f0de482f547951d488b304f225e3db845ff5e780d20ae"
+metafile = true
+
+[[files]]
+file = "mods/no-hostiles-around-campfire.pw.toml"
+hash = "14a132a1ac4c8538f41ed79f0b2ad5bb8e4e0cb56a492463e70f17a5645af80d"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "5e6502a270e023d869aad48292a82d2599103c56bbca5157ad9479fa9d094fd6"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "e0e1e55bfd57838d03dbcd49d3e056352db0284b15e45210205c5d85f83b76d4"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "b326eb722c3dad461a459c829eb26a55deee396a3dc452cb63473ffc2c1dc7a0"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "3cd771063fa8610a87e6e2ddded2e98334b3c657923f9afaa8f07dd5c599acd6"
+metafile = true
+
+[[files]]
+file = "mods/unwrecked-ships.pw.toml"
+hash = "2f771e0669bf6d179b40d77d295f5c0680cff28f3bd17af34093e429682f727d"
+metafile = true
+
+[[files]]
+file = "mods/villager-in-a-bucket.pw.toml"
+hash = "88b5bcef60386b4392f02ebeb62dfc148b6d3f84821b1cc99981ea04e7fb1fb0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-vanilla-animals.pw.toml"
+hash = "ee95b23649d1bf1d66588c5731df1f0273c7a1394e719b0041163794c4cfc5bc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/connected-paths.pw.toml"
+hash = "f7cb105f7506d27de8640f872a105262cb9a9bf4e00e276366b344331a969eda"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "8a9f38930714c828285ac7c422302380d939d80384a90ed1148d6d26e8863870"
+metafile = true
+
+[[files]]
+file = "resourcepacks/remodeled-doors.pw.toml"
+hash = "59bb4f6a91e46057b59a74b38338caec5a0c16d7d13f3eb0b54c9e2508deb00d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders-classic.pw.toml"
+hash = "8d794dbd95ad6a23c5688f7e6ad8e1a853f38de3a536361e1ba3a6da591874e0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "e805a7cb8f79018d7a53b0ab241a5d3d3dd0a1696ca95dbe9a8c373f811df4e5"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "e21049e1505b849d2996e1390a6e91e3030a44277b873242cadfc074b576662d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "414ec8149a7ad832afd75ab30a9cfa4dd641461aa9f4117f46c900999b5aa0c0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "9c13ce998f27d3d734621f30e7569b8ec5b5627fe1a38cdd99d3febb2eb8513f"
+metafile = true

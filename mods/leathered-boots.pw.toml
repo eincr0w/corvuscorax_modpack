@@ -1,0 +1,13 @@
+name = "Leathered Boots"
+filename = "leathered-boots-fabric-1.21.4-6.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nuqNKAFn/versions/arAQyk8E/leathered-boots-fabric-1.21.4-6.0.2.jar"
+hash-format = "sha512"
+hash = "962f37d57b95fc53afb93bcaf71a4b0eb664fee749b9eb4919381c101954db7ed1f73748af5186a79d85ad9bf7e2e0f508a6711cf07867dc65d7bf19a5d12d28"
+
+[update]
+[update.modrinth]
+mod-id = "nuqNKAFn"
+version = "arAQyk8E"

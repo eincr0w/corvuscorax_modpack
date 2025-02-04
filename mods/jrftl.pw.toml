@@ -1,0 +1,13 @@
+name = "Just Another Rotten Flesh to Leather Mod"
+filename = "jrftl-1.21.4-fabric-1.9.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8nIicBYu/versions/Xxt0CDG2/jrftl-1.21.4-fabric-1.9.1.jar"
+hash-format = "sha512"
+hash = "290b94bd5f4a537684dd2c57af981c4080e0c76883f49895c431b481766824717d64c0c9396d9b1b57dd23dbbf8b762d51ac6c873308a938be0aa752cac90c82"
+
+[update]
+[update.modrinth]
+mod-id = "8nIicBYu"
+version = "Xxt0CDG2"

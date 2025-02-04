@@ -1,0 +1,13 @@
+name = "Corvus Corax Mod Pack"
+author = "Einar Cr0w"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e908d9f1daba541f2b6545cb5fa64f0977d80065602810e33b7749d71a6c85dd"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.4"
