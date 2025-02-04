@@ -6,11 +6,12 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "648dc5de7f682fa89f8fbf8266bd7f73e89633c5ec744001e9820a0bec3503e9"
+hash = "81bf373c0568b9a64d8742c449dae18a276d35f0759f768650d6a27ffc52b85d"
 
 [versions]
 fabric = "0.16.10"
 minecraft = "1.21.4"
 
 [options]
+acceptable-game-versions = ["true"]
 packwiz-url = "https://eincr0w.github.io/corvuscorax_modpack/index.toml"

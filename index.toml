@@ -139,13 +139,12 @@ hash = "88b5bcef60386b4392f02ebeb62dfc148b6d3f84821b1cc99981ea04e7fb1fb0"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better-vanilla-animals.pw.toml"
-hash = "ee95b23649d1bf1d66588c5731df1f0273c7a1394e719b0041163794c4cfc5bc"
-metafile = true
+file = "resourcepacks/Connected World v1.4 for 1.20.3.zip"
+hash = "6f7341e2b2d3f6523a347921127987a203b93205d6a1b3b4da298c07911b5208"
 
 [[files]]
-file = "resourcepacks/connected-paths.pw.toml"
-hash = "f7cb105f7506d27de8640f872a105262cb9a9bf4e00e276366b344331a969eda"
+file = "resourcepacks/better-vanilla-animals.pw.toml"
+hash = "ee95b23649d1bf1d66588c5731df1f0273c7a1394e719b0041163794c4cfc5bc"
 metafile = true
 
 [[files]]
