@@ -5,9 +5,33 @@ file = ".nojekyll"
 hash = "2e08d1f6000aef541797d008c05ac36f4dbebfb36cbac5615788e6fcc5b300a7"
 
 [[files]]
+file = "mods/ImmersiveUI-FABRIC-0.3.0+1.21.2.jar"
+hash = "9176dd04e50dfc794a923afa0d2badccb1c57d4e30a12702270ab9a4ed13c2d0"
+
+[[files]]
+file = "mods/Jade-1.21.4-Fabric-17.2.2.jar"
+hash = "085e71728de5101ddc6531f4a50eab4240fc28252703b3076a12826f98a84cb9"
+
+[[files]]
+file = "mods/OctoLib-FABRIC-0.5.0.1+1.21.4.jar"
+hash = "51b2f80af97812846b551c1757afdafa16628051683b98488ba37f74b9f3cc33"
+
+[[files]]
+file = "mods/Unwrecked Ships Plus 2.0.5.jar"
+hash = "20022d86449aab552188894429a611f1631440a58af20986827293777ea2802a"
+
+[[files]]
+file = "mods/appleskin-fabric-mc1.21.3-3.0.6.jar"
+hash = "f8f611746df88f1737b62a76615a366f42a331730ea16db97c52d6f5540c58ab"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
 metafile = true
+
+[[files]]
+file = "mods/architectury-15.0.1-fabric.jar"
+hash = "291bda19605a2f66b83a353a72a93f1c4a50d719516b7d30481cc2170d3af80e"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -15,9 +39,17 @@ hash = "126a1b72c154478d7d18d733fcc5e79bae93df7e37ee3f0b6e00db1b1ea66ac5"
 metafile = true
 
 [[files]]
+file = "mods/balm-fabric-1.21.4-21.4.6.jar"
+hash = "187f770ca649f3546746c4e9366bebd27e2fcdb9287244c41f0ccb90d3b2ea5a"
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "66d945c13d1ab4e07017eb0194799874893742ab5e7622b7ef56fb843d19d1bd"
 metafile = true
+
+[[files]]
+file = "mods/cobweb-fabric-1.21.4-1.3.1.jar"
+hash = "d935ef53423350fbd51edf11e2e185320e711b377be60f6830ac8b71d70b07d1"
 
 [[files]]
 file = "mods/cobweb.pw.toml"
@@ -25,14 +57,26 @@ hash = "3742a1ea5e95612546d714dc73e9af2789efffff93772440a062c209f77f7499"
 metafile = true
 
 [[files]]
+file = "mods/collective-1.21.4-7.89.jar"
+hash = "88f9fabe1074ac36b912826135821ba43363e628ba5dd09d4acc627d26959365"
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "49349d6789c8d49c469d98f0796b260df8f9534625fddd60c37a0bd197dce225"
 metafile = true
 
 [[files]]
+file = "mods/continuity-3.0.0+1.21.4.jar"
+hash = "15532119b71eb17796195a57d21289b30ada0c9e92995fbea170ca59e656e5bb"
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "7986f751d84536043edd1e67178554f6d4c3f01409feae6c151afa7854db5fa2"
 metafile = true
+
+[[files]]
+file = "mods/craft-saddle-61.1.jar"
+hash = "bef0528600ba6781723cc1adb801ba6218b1d9b8d105603fa350a3827cd23df5"
 
 [[files]]
 file = "mods/craft-saddle.pw.toml"
@@ -45,9 +89,21 @@ hash = "cde649248ca5d9b791fcf10bb45cc1cfbed6b626963839377dcf8ea6c14fd01d"
 metafile = true
 
 [[files]]
+file = "mods/entity_model_features_fabric_1.21.4-2.4.1.jar"
+hash = "0c9123d9cbeb5085bb167422dee745c2f9942001163cc3fe80b4b0f55981a42a"
+
+[[files]]
+file = "mods/entity_texture_features_fabric_1.21.4-6.2.10.jar"
+hash = "30875192e8fdcdc2e5add10cfb3e8a97e7096095e7783868bb91c989598114b1"
+
+[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "187026fe5d603008a4b30559103487f0ebf08682bf3e470ab743227f5265a422"
 metafile = true
+
+[[files]]
+file = "mods/fabric-api-0.115.1+1.21.4.jar"
+hash = "afb6db3eb074421865bf72779083cc9dedcdb4e56fab31550fa54a00dfca92e5"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
@@ -65,6 +121,10 @@ hash = "c2230f55e4fd0985b000e35e2fb8e1c687877ac19cb68bc59c9e7f46490f350f"
 metafile = true
 
 [[files]]
+file = "mods/iris-fabric-1.8.5+mc1.21.4.jar"
+hash = "edf89bc6cace965f867200b821f216c3d601327cb40e2fbd78bcc1e54f64b093"
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "82e7a1244febc6b4699e17bcee523567efc9c8c005d67057f9c4c40e7fba2a5a"
 metafile = true
@@ -75,9 +135,17 @@ hash = "114968e70a3e2c2f7a33db6ed305256585353361a28210a0b872df52fc5542aa"
 metafile = true
 
 [[files]]
+file = "mods/journeymap-fabric-1.21.4-6.0.0-beta.37.jar"
+hash = "282a72ab42ec84738494874f3b8e35dffdef1e7518c8793afccb6528b3adb083"
+
+[[files]]
 file = "mods/journeymap-web-map.pw.toml"
 hash = "a82bae37129126fb66836fa72a4845f182c4a4af42ca557bbb31da4bb1e5e209"
 metafile = true
+
+[[files]]
+file = "mods/journeymap-webmap-fabric-1.21.4-1.0.2.jar"
+hash = "14d0ccbe9a3451f0cd5d7f390d9eb2f229e8670e72de69bcbe768b1268c04c24"
 
 [[files]]
 file = "mods/journeymap.pw.toml"
@@ -85,14 +153,26 @@ hash = "b60dc2a03d3536e84af18d8215b52ce4a0fa85ee56ae330e54b130614bc3226f"
 metafile = true
 
 [[files]]
+file = "mods/jrftl-1.21.4-fabric-1.9.1.jar"
+hash = "81d5d1ed0e563962d36719682660bd885c8fb30677e84b2fda5fd3ea3b317651"
+
+[[files]]
 file = "mods/jrftl.pw.toml"
 hash = "2ed115b7091ec2d6677923d43e201f9d5b37b00f305f21039851291af2b52663"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights-4.0.1+1.21.4.jar"
+hash = "b7308df86a67b2d29201142071f07b672e800556ad9104ffc5593e98b4f0da5a"
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "9752dfb3a2284f00d64d338df2d740e5c55bfcd4eb1aa7819fd9915a007468ef"
 metafile = true
+
+[[files]]
+file = "mods/leathered-boots-fabric-1.21.4-6.0.2.jar"
+hash = "606faca22ac96823eaad5f1792bcdb649bb57ba603a790f55a10dd648e0bfa30"
 
 [[files]]
 file = "mods/leathered-boots.pw.toml"
@@ -110,13 +190,17 @@ hash = "5e6502a270e023d869aad48292a82d2599103c56bbca5157ad9479fa9d094fd6"
 metafile = true
 
 [[files]]
-file = "mods/packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+file = "mods/sodium-fabric-0.6.6+mc1.21.4.jar"
+hash = "2edd03c3563094543d3f3d6b94107e0f5845b682f841728ee7f8cd5d5c0f8e83"
 
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "e0e1e55bfd57838d03dbcd49d3e056352db0284b15e45210205c5d85f83b76d4"
 metafile = true
+
+[[files]]
+file = "mods/trashslot-fabric-1.21.4-21.4.3.jar"
+hash = "eefa1ac4941a1919adef6f93aa30489846cfff31c8b6346bf5cfe45e7426a873"
 
 [[files]]
 file = "mods/trashslot.pw.toml"
@@ -139,8 +223,28 @@ hash = "88b5bcef60386b4392f02ebeb62dfc148b6d3f84821b1cc99981ea04e7fb1fb0"
 metafile = true
 
 [[files]]
+file = "mods/villagerinabucket-fabric-1.21.4-1.0.2.jar"
+hash = "510b9980dce7bccd863344fb65b9a9fcd6cf0f0ddcd9d490af8eb710216a0bc4"
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz.json"
+hash = "c43ea192aa209b20f4681100e9a521c14bb86e5d77e55fb1d304bce84b568395"
+
+[[files]]
 file = "resourcepacks/Connected World v1.4 for 1.20.3.zip"
 hash = "6f7341e2b2d3f6523a347921127987a203b93205d6a1b3b4da298c07911b5208"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.9.3.zip"
+hash = "aa3812ae5fb96a22590ff2ccb53f589a9de9081c11e1432c871cc11fa87c9252"
+
+[[files]]
+file = "resourcepacks/Remodeled-Doors1.5.zip"
+hash = "d500d8315c1413ec05cb23e754a200750ddeb8e1ca0d40f5acebae415ae4e99c"
 
 [[files]]
 file = "resourcepacks/better-vanilla-animals.pw.toml"
@@ -156,6 +260,22 @@ metafile = true
 file = "resourcepacks/remodeled-doors.pw.toml"
 hash = "59bb4f6a91e46057b59a74b38338caec5a0c16d7d13f3eb0b54c9e2508deb00d"
 metafile = true
+
+[[files]]
+file = "resourcepacks/§2BetterVanillaAnimals§7_v4.zip"
+hash = "f9f49007042b87bdef02516bca9d000aaa06e6110f49879019131ebaaf6380b0"
+
+[[files]]
+file = "shaderpacks/BSLClassic_v8.4.01.2.zip"
+hash = "ee38e41134bc86a8de76f5cc8ed47d72405e32fc62db56e480d307332acadc06"
+
+[[files]]
+file = "shaderpacks/BSL_v8.4.01.2.zip"
+hash = "f06508abf8a290b8bb7e5be36553e1a7cbd81adddfdfeeca30f9bff114107e93"
+
+[[files]]
+file = "shaderpacks/MakeUp-UltraFast-9.1c.zip"
+hash = "b08000a015077d3b07e8da94f4a9e005e7f2a11d78230be8d44117cbb2ca7885"
 
 [[files]]
 file = "shaderpacks/astralex.pw.toml"
@@ -183,6 +303,18 @@ hash = "414ec8149a7ad832afd75ab30a9cfa4dd641461aa9f4117f46c900999b5aa0c0"
 metafile = true
 
 [[files]]
+file = "shaderpacks/photon_v1.1.zip"
+hash = "1228172bfb0ee49de3d2b6268390bac52c9a57dd0aa92c8903e57cf14583203a"
+
+[[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
 hash = "9c13ce998f27d3d734621f30e7569b8ec5b5627fe1a38cdd99d3febb2eb8513f"
 metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels_r0.1-beta6a.zip"
+hash = "a7998b1c0b806be215e86c1579d266d327dcd8674caa36608476d24bb85f0fc1"
+
+[[files]]
+file = "shaderpacks/§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip"
+hash = "70b6d8127a6733f0a19bd1d351b92709d6ee7496967ff49c4793d2c28c7a6c58"
