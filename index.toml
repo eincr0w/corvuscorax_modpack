@@ -248,33 +248,16 @@ file = "packwiz.json"
 hash = "81ff26a7b4f72e31de628ba51ccac11a71cf74ba32c8ef8bae6fa10a94a23526"
 
 [[files]]
-file = "resourcepacks/Default HD 256x Demo 1.2.zip"
-hash = "c9b36c3c0f0c80cd73e6768de0c9e812f4185de5a4e6cfa451b1bd61b3c2f59a"
-
-[[files]]
 file = "resourcepacks/FreshAnimations_v1.9.3.zip"
 hash = "aa3812ae5fb96a22590ff2ccb53f589a9de9081c11e1432c871cc11fa87c9252"
-
-[[files]]
-file = "resourcepacks/Optimum Realism R2.9.0 64x [Kappa, BSL,etc] WIP.zip"
-hash = "a5e1c87cf0d6d79d497d52571ab1c64d297c7401c4aee284bd6b98c53af02473"
 
 [[files]]
 file = "resourcepacks/Remodeled-Doors1.5.zip"
 hash = "d500d8315c1413ec05cb23e754a200750ddeb8e1ca0d40f5acebae415ae4e99c"
 
 [[files]]
-file = "resourcepacks/Stylista 128x R25.zip"
-hash = "240500d7b3c13e8814868087af2a59e1074dfa817ec2022b57efe3cefcaa2024"
-
-[[files]]
 file = "resourcepacks/better-vanilla-animals.pw.toml"
 hash = "ee95b23649d1bf1d66588c5731df1f0273c7a1394e719b0041163794c4cfc5bc"
-metafile = true
-
-[[files]]
-file = "resourcepacks/default-hd-256x.pw.toml"
-hash = "cb229c15c3625e6390df3973d639cb271899eeb04fed284bc51bb42813500ae0"
 metafile = true
 
 [[files]]
@@ -283,18 +266,8 @@ hash = "8a9f38930714c828285ac7c422302380d939d80384a90ed1148d6d26e8863870"
 metafile = true
 
 [[files]]
-file = "resourcepacks/optimum-realism.pw.toml"
-hash = "f53ab12a4c7b4989f68937cf2b2852aebcd191eaa8c6514a182c5f3019553fce"
-metafile = true
-
-[[files]]
 file = "resourcepacks/remodeled-doors.pw.toml"
 hash = "59bb4f6a91e46057b59a74b38338caec5a0c16d7d13f3eb0b54c9e2508deb00d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/stylista.pw.toml"
-hash = "5d142877087e832f4cdc3e51b66e034dc35599e5bcd44135cc6ab50f60321217"
 metafile = true
 
 [[files]]
@@ -310,10 +283,6 @@ file = "shaderpacks/BSL_v8.4.01.2.zip"
 hash = "f06508abf8a290b8bb7e5be36553e1a7cbd81adddfdfeeca30f9bff114107e93"
 
 [[files]]
-file = "shaderpacks/MakeUp-UltraFast-9.1c.zip"
-hash = "b08000a015077d3b07e8da94f4a9e005e7f2a11d78230be8d44117cbb2ca7885"
-
-[[files]]
 file = "shaderpacks/bsl-shaders-classic.pw.toml"
 hash = "dc93835317e03fa7c272d5d998f7ff66e589670644320c1feb0937d18a9fb30d"
 metafile = true
@@ -321,11 +290,6 @@ metafile = true
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "ecc5dcd2813b5640a0b7353d78195a4c6f1b55fea1d15ac9b3b9affa4b54aab8"
-metafile = true
-
-[[files]]
-file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "e21049e1505b849d2996e1390a6e91e3030a44277b873242cadfc074b576662d"
 metafile = true
 
 [[files]]
