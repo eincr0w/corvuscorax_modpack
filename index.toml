@@ -116,6 +116,11 @@ hash = "7edce835239902de052754cc086998e886c131733d164aecfe10adf56e00de90"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "4b257578b2973f4e99ae3192989f7ba4db19e9eca99ea396a1479c8a6cd9ca88"
+metafile = true
+
+[[files]]
 file = "mods/immersive-ui.pw.toml"
 hash = "c2230f55e4fd0985b000e35e2fb8e1c687877ac19cb68bc59c9e7f46490f350f"
 metafile = true
@@ -199,6 +204,11 @@ hash = "bedeab81b949543d6e5ba34a496f63543cdcbc33982a44794fc14de48eec5b8b"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "3280f2015e3aee3e4fb3b7a345a311fca9b14419c437f5541ae5be7603127653"
+metafile = true
+
+[[files]]
 file = "mods/sodium-fabric-0.6.6+mc1.21.4.jar"
 hash = "2edd03c3563094543d3f3d6b94107e0f5845b682f841728ee7f8cd5d5c0f8e83"
 
@@ -236,6 +246,11 @@ file = "mods/villagerinabucket-fabric-1.21.4-1.0.2.jar"
 hash = "510b9980dce7bccd863344fb65b9a9fcd6cf0f0ddcd9d490af8eb710216a0bc4"
 
 [[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "5af4ca216a4813516eac9c740f13665fb1913072e08ebe906842c54405b5680b"
+metafile = true
+
+[[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
@@ -263,6 +278,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "8a9f38930714c828285ac7c422302380d939d80384a90ed1148d6d26e8863870"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pixlli.pw.toml"
+hash = "b99afaaf3443b1399be7608028ba322f76f137b7e0ee92f4308f77cbae03cf05"
 metafile = true
 
 [[files]]

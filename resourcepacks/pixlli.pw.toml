@@ -1,0 +1,13 @@
+name = "Pixlli"
+filename = "Pixlli V45 1.21.4-1.13 128x.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/E8fGzGhh/versions/elHHkVFy/Pixlli%20V45%201.21.4-1.13%20128x.zip"
+hash-format = "sha512"
+hash = "392773493f7bd30eea54d3c7138ac483921b66762651290fa0373e6be573fbdd5279b54e6ab40a858d40ec2569b51230bb060b0659f155dcc9ca6f1375a388f8"
+
+[update]
+[update.modrinth]
+mod-id = "E8fGzGhh"
+version = "elHHkVFy"
