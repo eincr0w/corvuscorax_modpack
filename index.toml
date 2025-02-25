@@ -35,7 +35,7 @@ hash = "291bda19605a2f66b83a353a72a93f1c4a50d719516b7d30481cc2170d3af80e"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "126a1b72c154478d7d18d733fcc5e79bae93df7e37ee3f0b6e00db1b1ea66ac5"
+hash = "848c49f2ead5e1e71d7be95d2d9e1cb992631faf91500b9c59e72d61afca33fd"
 metafile = true
 
 [[files]]
@@ -44,7 +44,7 @@ hash = "187f770ca649f3546746c4e9366bebd27e2fcdb9287244c41f0ccb90d3b2ea5a"
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "66d945c13d1ab4e07017eb0194799874893742ab5e7622b7ef56fb843d19d1bd"
+hash = "f676c2672db0ae62b195d038c4798cd73971e7c7d956c2224cda796e05c785c3"
 metafile = true
 
 [[files]]
@@ -53,7 +53,7 @@ hash = "d935ef53423350fbd51edf11e2e185320e711b377be60f6830ac8b71d70b07d1"
 
 [[files]]
 file = "mods/cobweb.pw.toml"
-hash = "3742a1ea5e95612546d714dc73e9af2789efffff93772440a062c209f77f7499"
+hash = "9dccf9f4d854d9bc0d92bfd2b9e94dd78b83a40033dc093f3a153966944d296a"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ hash = "88f9fabe1074ac36b912826135821ba43363e628ba5dd09d4acc627d26959365"
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "49349d6789c8d49c469d98f0796b260df8f9534625fddd60c37a0bd197dce225"
+hash = "4340c6660f1700e35edd16569550d42e6b7f9b18e2d0e156275327393e5390b5"
 metafile = true
 
 [[files]]
@@ -107,12 +107,12 @@ hash = "afb6db3eb074421865bf72779083cc9dedcdb4e56fab31550fa54a00dfca92e5"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dd4c3c3ee97fa946926784db25da0b5a9984c9959681f412d6b402cc5bdfc83e"
+hash = "71e384f643d16f13d509c543c26e81542baa22599365d6c16d867cd1eeda5acd"
 metafile = true
 
 [[files]]
 file = "mods/followers-teleport-too.pw.toml"
-hash = "c2e3a784ac7202941c4f3adfa500133f91f844417e56683ba7dd1a0b150b6a77"
+hash = "7edce835239902de052754cc086998e886c131733d164aecfe10adf56e00de90"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ hash = "edf89bc6cace965f867200b821f216c3d601327cb40e2fbd78bcc1e54f64b093"
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "82e7a1244febc6b4699e17bcee523567efc9c8c005d67057f9c4c40e7fba2a5a"
+hash = "e03fc0b0c151c5c072ac399d27b5c4268a093c41be73f3b1578d050bb49211f3"
 metafile = true
 
 [[files]]
@@ -149,7 +149,7 @@ hash = "14d0ccbe9a3451f0cd5d7f390d9eb2f229e8670e72de69bcbe768b1268c04c24"
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "b60dc2a03d3536e84af18d8215b52ce4a0fa85ee56ae330e54b130614bc3226f"
+hash = "24ad69028d30b488a0d7b9ffe230d2e2eb3c29938268e0ae02615fce4c8d534f"
 metafile = true
 
 [[files]]
@@ -176,18 +176,22 @@ hash = "606faca22ac96823eaad5f1792bcdb649bb57ba603a790f55a10dd648e0bfa30"
 
 [[files]]
 file = "mods/leathered-boots.pw.toml"
-hash = "30215f62c0e7e6080c0f0de482f547951d488b304f225e3db845ff5e780d20ae"
+hash = "dbdb7d777661edea13459f462f561564b126485091ebbded28161c8a35c1dc1c"
 metafile = true
 
 [[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
-hash = "14a132a1ac4c8538f41ed79f0b2ad5bb8e4e0cb56a492463e70f17a5645af80d"
+hash = "a700fb9056d59124c245ccfb06cf787bff4c97984427016c3330773879be496d"
 metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "5e6502a270e023d869aad48292a82d2599103c56bbca5157ad9479fa9d094fd6"
 metafile = true
+
+[[files]]
+file = "mods/puzzle-fabric-2.0.4+1.21.4.jar"
+hash = "afa9a3577959a8825b3023b9792358eec37c806420958f06f913fdbc185bfc99"
 
 [[files]]
 file = "mods/puzzle.pw.toml"
@@ -200,7 +204,7 @@ hash = "2edd03c3563094543d3f3d6b94107e0f5845b682f841728ee7f8cd5d5c0f8e83"
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e0e1e55bfd57838d03dbcd49d3e056352db0284b15e45210205c5d85f83b76d4"
+hash = "d6ff2d13b8fec782d3a55207c90470591fd5aa36d4fab3562f8334a66cab60ab"
 metafile = true
 
 [[files]]
@@ -214,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "3cd771063fa8610a87e6e2ddded2e98334b3c657923f9afaa8f07dd5c599acd6"
+hash = "e246a39bfcc2c76d2853ec8282b801ae674da09874f03f2328c8eff3c6e41bee"
 metafile = true
 
 [[files]]
@@ -241,15 +245,27 @@ hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
 file = "packwiz.json"
-hash = "3e076730ece7557d7fb8303b6e021d527cc79b02e71b415fe2d8e32c9e38bcb1"
+hash = "81ff26a7b4f72e31de628ba51ccac11a71cf74ba32c8ef8bae6fa10a94a23526"
+
+[[files]]
+file = "resourcepacks/Default HD 256x Demo 1.2.zip"
+hash = "c9b36c3c0f0c80cd73e6768de0c9e812f4185de5a4e6cfa451b1bd61b3c2f59a"
 
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.9.3.zip"
 hash = "aa3812ae5fb96a22590ff2ccb53f589a9de9081c11e1432c871cc11fa87c9252"
 
 [[files]]
+file = "resourcepacks/Optimum Realism R2.9.0 64x [Kappa, BSL,etc] WIP.zip"
+hash = "a5e1c87cf0d6d79d497d52571ab1c64d297c7401c4aee284bd6b98c53af02473"
+
+[[files]]
 file = "resourcepacks/Remodeled-Doors1.5.zip"
 hash = "d500d8315c1413ec05cb23e754a200750ddeb8e1ca0d40f5acebae415ae4e99c"
+
+[[files]]
+file = "resourcepacks/Stylista 128x R25.zip"
+hash = "240500d7b3c13e8814868087af2a59e1074dfa817ec2022b57efe3cefcaa2024"
 
 [[files]]
 file = "resourcepacks/better-vanilla-animals.pw.toml"
@@ -299,12 +315,12 @@ hash = "b08000a015077d3b07e8da94f4a9e005e7f2a11d78230be8d44117cbb2ca7885"
 
 [[files]]
 file = "shaderpacks/bsl-shaders-classic.pw.toml"
-hash = "8d794dbd95ad6a23c5688f7e6ad8e1a853f38de3a536361e1ba3a6da591874e0"
+hash = "dc93835317e03fa7c272d5d998f7ff66e589670644320c1feb0937d18a9fb30d"
 metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "e805a7cb8f79018d7a53b0ab241a5d3d3dd0a1696ca95dbe9a8c373f811df4e5"
+hash = "ecc5dcd2813b5640a0b7353d78195a4c6f1b55fea1d15ac9b3b9affa4b54aab8"
 metafile = true
 
 [[files]]

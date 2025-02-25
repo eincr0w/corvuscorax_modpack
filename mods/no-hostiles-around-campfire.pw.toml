@@ -1,13 +1,13 @@
 name = "No Hostiles Around Campfire"
-filename = "nohostilesaroundcampfire-1.21.4-7.1.jar"
+filename = "nohostilesaroundcampfire-1.21.4-7.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/EJqeyaVz/versions/9wKNZbVL/nohostilesaroundcampfire-1.21.4-7.1.jar"
+url = "https://cdn.modrinth.com/data/EJqeyaVz/versions/TwT48Pqw/nohostilesaroundcampfire-1.21.4-7.2.jar"
 hash-format = "sha512"
-hash = "1eb9e28612ed66034a47e165573684d8e87fcb9cf57775c23134d70ca9e76201d13d96d0f13949839287723b1a948f375ce69b28731f7f3a6c81f76bb9bb8927"
+hash = "31abab50c23e372c4afcff1f72b6197190ced5c3d6634cf4aab5bc6b0404e1d067be989696d2b4a91b966f849fa0ddbac8dbf4577fa49832bc104db3d4adcc85"
 
 [update]
 [update.modrinth]
 mod-id = "EJqeyaVz"
-version = "9wKNZbVL"
+version = "TwT48Pqw"
