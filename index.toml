@@ -169,8 +169,18 @@ file = "packwiz-installer.jar"
 hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
+file = "resourcepacks/3d-ladders.pw.toml"
+hash = "d877c878bb84d40225deb43d88a2bac932a88893ab014cdd738c92e354b4275e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-vanilla-animals.pw.toml"
 hash = "ee95b23649d1bf1d66588c5731df1f0273c7a1394e719b0041163794c4cfc5bc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/connected-paths.pw.toml"
+hash = "f7cb105f7506d27de8640f872a105262cb9a9bf4e00e276366b344331a969eda"
 metafile = true
 
 [[files]]
@@ -186,6 +196,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/pixlli.pw.toml"
 hash = "d68cd51fd7d24c84bc3ecd98a540587353a9cfcb3e22efd4a0744f2a30233e43"
+metafile = true
+
+[[files]]
+file = "resourcepacks/primes-hd-textures.pw.toml"
+hash = "148f3431d53479d15aa45edc5668db849f748acf8e4538a5d096ca5028e692ac"
 metafile = true
 
 [[files]]

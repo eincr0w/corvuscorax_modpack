@@ -1,0 +1,13 @@
+name = "Prime's HD Textures"
+filename = "Prime's HD Textures (32x).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PTSGmxET/versions/iImuKcoj/Prime%27s%20HD%20Textures%20%2832x%29.zip"
+hash-format = "sha512"
+hash = "4d7842a511e96ae5004ef7c4f396552a9ec2227fb09987541cc04c54c5ac42bdffb1fe9e7b9761fb966c5435b9fe8eb7f6f643eba0d59e580ca86c4322f11687"
+
+[update]
+[update.modrinth]
+mod-id = "PTSGmxET"
+version = "iImuKcoj"
