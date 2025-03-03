@@ -1,0 +1,13 @@
+name = "Craft Saddle"
+filename = "saddle-craft-v.1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KQKkiP8x/versions/IYTCafW0/saddle-craft-v.1.0.0.jar"
+hash-format = "sha512"
+hash = "86ad42712bf975753af637d00949e7981cf5a9f9912fd5aedec657d253f57003f4b9eb25c527bf5a96246dc5a41d475d56405f29c4329eee282fc687b32bc765"
+
+[update]
+[update.modrinth]
+mod-id = "KQKkiP8x"
+version = "IYTCafW0"
