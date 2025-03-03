@@ -101,6 +101,11 @@ hash = "dbdb7d777661edea13459f462f561564b126485091ebbded28161c8a35c1dc1c"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "5ca4c5d71d0e9fbcc9a8561fe3e05fbdad8150d98e5976e9fec8f62c103ebeea"
+metafile = true
+
+[[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
 hash = "a700fb9056d59124c245ccfb06cf787bff4c97984427016c3330773879be496d"
 metafile = true
@@ -108,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "5e6502a270e023d869aad48292a82d2599103c56bbca5157ad9479fa9d094fd6"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
 metafile = true
 
 [[files]]
