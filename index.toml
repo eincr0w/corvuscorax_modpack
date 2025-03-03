@@ -269,10 +269,6 @@ file = "packwiz-installer.jar"
 hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
 
 [[files]]
-file = "packwiz.json"
-hash = "81ff26a7b4f72e31de628ba51ccac11a71cf74ba32c8ef8bae6fa10a94a23526"
-
-[[files]]
 file = "resourcepacks/FreshAnimations_v1.9.3.zip"
 hash = "aa3812ae5fb96a22590ff2ccb53f589a9de9081c11e1432c871cc11fa87c9252"
 
