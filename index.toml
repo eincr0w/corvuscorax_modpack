@@ -84,6 +84,11 @@ hash = "9439fe645256245c55683c1098ec3d1b0ddc99106d8331a068fa8a7b0fb67e89"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "299bba3dc3fe974097f7250bae141ebd119648d71f4028b6594ffda0d85d0308"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "cde649248ca5d9b791fcf10bb45cc1cfbed6b626963839377dcf8ea6c14fd01d"
 metafile = true
@@ -118,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "4b257578b2973f4e99ae3192989f7ba4db19e9eca99ea396a1479c8a6cd9ca88"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "55a8a0323890cc345666b4b0882c10c33b8d6f618014b0f0b561853bc22553b4"
 metafile = true
 
 [[files]]
@@ -278,6 +288,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "8a9f38930714c828285ac7c422302380d939d80384a90ed1148d6d26e8863870"
+metafile = true
+
+[[files]]
+file = "resourcepacks/patrix-32x.pw.toml"
+hash = "586c5477b4505ac694ca5f94bede029fde6fdf94cad899177d9aeaa57dbff40c"
 metafile = true
 
 [[files]]
