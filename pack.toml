@@ -13,5 +13,5 @@ fabric = "0.16.10"
 minecraft = "1.21.4"
 
 [options]
-acceptable-game-versions = ["1.21"]
+acceptable-game-versions = ["1.21", "1.21.1"]
 packwiz-url = "https://eincr0w.github.io/corvuscorax_modpack/index.toml"
