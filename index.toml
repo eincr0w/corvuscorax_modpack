@@ -161,6 +161,11 @@ hash = "5af4ca216a4813516eac9c740f13665fb1913072e08ebe906842c54405b5680b"
 metafile = true
 
 [[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "045b0c73a67e3ba38635e0759b288b0f7e7cd524c351050f8de154023c043845"
+metafile = true
+
+[[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
