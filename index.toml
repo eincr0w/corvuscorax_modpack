@@ -31,11 +31,6 @@ hash = "7986f751d84536043edd1e67178554f6d4c3f01409feae6c151afa7854db5fa2"
 metafile = true
 
 [[files]]
-file = "mods/coroutil.pw.toml"
-hash = "455d633469dbcd76deca1297e4db65322e66fefe62b2df5a1752e027384b7c3b"
-metafile = true
-
-[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "299bba3dc3fe974097f7250bae141ebd119648d71f4028b6594ffda0d85d0308"
 metafile = true
@@ -163,11 +158,6 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "5af4ca216a4813516eac9c740f13665fb1913072e08ebe906842c54405b5680b"
-metafile = true
-
-[[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "15ec43924ee53b29e4206f94c576743f6d6b1f10e57a926123e7f3368bfac0ea"
 metafile = true
 
 [[files]]
